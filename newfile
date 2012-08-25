@@ -1,0 +1,4 @@
+This is a newfile I created on the topic branch 'newfile'
+
+After I merge this to develop and refine it a bit, I can then merge it to
+master.
