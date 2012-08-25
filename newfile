@@ -2,3 +2,7 @@ This is a newfile I created on the topic branch 'newfile'
 
 After I merge this to develop and refine it a bit, I can then merge it to
 master.
+
+I created this line after merging newline into develop, and then using
+'git branch -d newline'
+to delete the now obsolete branch.
