@@ -16,3 +16,6 @@ created, the code updated, then the security branch gets merged into master.
 The developement branch must then merge the security branch into it, so that
 the security fix is still there when dev. eventually gets merged to master.
 /rambling
+
+(Don't pay any attention to the above, I'm new to git and am likely overlooking
+ some elementary detail.  But I know how to use vim pretty well!)
