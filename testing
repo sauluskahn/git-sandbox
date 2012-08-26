@@ -1,1 +1,6 @@
 testing to see if i can add a branch to github by pushing while in the branch
+
+Correction, to push a branch to remote,
+    git push <remote> <branch>
+So in my case:
+    git push github develop
